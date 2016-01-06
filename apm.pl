@@ -17,7 +17,7 @@ $VERSION = "0.4";
 #
 #apm.pl 
 #	apm.pl is a small script for displaying your Battery Level in irssi.
-#	Just load the script and do a /statusbar window add apm
+#	Just load the script and do a /statusbar window add power
 #	and a small box [BAT: +/-XX%] should be displayed this is only possible 
 #	on Computers where /proc/apm or /proc/acpi is existing. 
 #	The + or - indicates if battery is charging or discharging.
